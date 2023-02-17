@@ -1,6 +1,6 @@
 """
-Tutorial ensiando no canal do youtube Hashtag Programação.
-Código recebe arquivo excel, sepera em três tabelas: Faturamento, Quantidade, Ticket Médio... E envia por e-mail.
+Tutorial ensinado no canal do youtube Hashtag Programação.
+Código recebe arquivo excel, separa em três tabelas: Faturamento, Quantidade, Ticket Médio... E envia por e-mail.
 Arquivo excel link: https://drive.google.com/drive/folders/1TUDK-Mk2Vo2ea4j1GtAqxnBDNXchXBb-
 """
 
